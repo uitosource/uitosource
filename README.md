@@ -2,11 +2,11 @@
 
 **Click an element in your running React or Angular app — jump to its source, or edit it in place.**
 
-UIToSource runs your project's dev server behind a local proxy, overlays a
-right-click menu on the live app in a browser tab, and resolves what you click
-back to the exact TypeScript, template/JSX, and CSS that produced it. Edits
-made in the trace popup are saved straight into your workspace files
-(drift-guarded and undoable), and your dev server hot-reloads them.
+UIToSource opens your running app in a VS Code browser tab with a right-click
+**Go to Source** menu, and resolves what you click back to the exact
+TypeScript, template/JSX, and CSS that produced it. Edits made in the trace
+popup are saved straight into your workspace files (drift-guarded and
+undoable), and your dev server hot-reloads them. Zero changes to your project.
 
 ➡️ **Install from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=uitosource.uitosource)**
 · also on [Open VSX](https://open-vsx.org/extension/uitosource/uitosource)
